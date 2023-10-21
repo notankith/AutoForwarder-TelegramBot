@@ -10,7 +10,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "617722711:AAHysCHsVcQja6LOlHa88101lKjrxez80-M"  # API key obtained from BotFather
+    API_KEY = "617722711:AAHysCHsVcQja6LOlHa88101lKjrxez80-"  # API key obtained from BotFather
     OWNER_ID = "582884567"  # If you dont know, run the bot and do /id in your private chat with the bot
 
     # FOR AUTOMATICALLY FORWARDING MESSAGES
